@@ -4,11 +4,11 @@ are implemented, such as the eating philosophers problem,
 the sleeping barber problem, the productors and clients
 problem and the readers and writers problem
 ```
-:~$gcc -o barber barber.c -lpthread 
+:~$g++ -o barber barber.c -lpthread 
 :~$./barber
 ```
 ```
-:~$gcc -o writers-readers writers-readers.c -lpthread 
+:~$g++ -o writers-readers writers-readers.c -lpthread 
 :~$./writers-readers
 ```
 etc
