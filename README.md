@@ -17,7 +17,7 @@ In second lab a simple task manager with /proc directory is
 implemented, also CPU usage by processes is computed.
 ```
 :~$gcc -o lab2 lab2.c 
-:~$./barber
+:~$./lab2
 ```
 
 In third lab hard disk information is get and displayed using
