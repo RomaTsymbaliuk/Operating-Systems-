@@ -21,7 +21,7 @@ implemented, also CPU usage by processes is computed.
 ```
 
 In third lab hard disk information is get and displayed using
-a bargraph.
+a bargraph. Enter an interval (in bytes) to distinguish files for size 
 ```
 :~$g++ -o lab3 lab3.cpp 
 :~$./lab3
